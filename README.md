@@ -1,4 +1,4 @@
-This is a list of the best applications in each category, so you don’t have to waste time searching for alternatives. The list is regularly updated and features apps that are clean, simple, reliable, easy to use, and completely free.
+One place for all of you needed applications that are clean, simple, reliable, easy to use, and completely free.
 
 ## Productivity
 1. Browser: [Google Chrome](https://www.google.com/chrome/), [Zen Browser](https://zen-browser.app/download/)
@@ -7,18 +7,6 @@ This is a list of the best applications in each category, so you don’t have to
 4. PDF Viewer: [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 5. Messaging: [Signal](https://signal.org/download/)
 6. File Manager: Windows File Manager
-
-## Tools
-1. Video Player: [VLC Media Player](https://www.videolan.org/vlc/)
-2. Music Player: [Music Bee](https://getmusicbee.com/downloads/)
-3. Image Viewer: Windows Image Viewer
-4. File Compress: [7 Zip](https://www.7-zip.org/download.html)
-5. File Share: [Local Send](https://localsend.org/download)
-6. File Sync: [Resilio Sync](https://www.resilio.com/sync/download/)
-7. Cloud: [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
-8. Writer: Windows Notepad
-9. Screenshot: Windows Snipping Tool
-10. Camera: Windows Camera
 
 ## Media Editing
 1. Screen Recorder: [OBS](https://obsproject.com/)
@@ -32,5 +20,17 @@ This is a list of the best applications in each category, so you don’t have to
 3. Code Editor: [Visual Studio Code](https://code.visualstudio.com/Download)
 4. Local Server: [Ngrok (Server App)](https://ngrok.com/downloads/windows)
 5. Terminal: Windows Terminal
+
+## Tools
+1. Video Player: [VLC Media Player](https://www.videolan.org/vlc/)
+2. Music Player: [Music Bee](https://getmusicbee.com/downloads/)
+3. Image Viewer: Windows Image Viewer
+4. File Compress: [7 Zip](https://www.7-zip.org/download.html)
+5. File Share: [Local Send](https://localsend.org/download)
+6. File Sync: [Resilio Sync](https://www.resilio.com/sync/download/)
+7. Cloud: [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
+8. Writer: Windows Notepad
+9. Screenshot: Windows Snipping Tool
+10. Camera: Windows Camera
 
 [Suggest Apps](mailto:aryannagarco@gmail.com)
