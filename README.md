@@ -2,12 +2,12 @@
 1. Browser: [Chrome](https://www.google.com/chrome/) | [Zen](https://zen-browser.app/download/)
 2. Email Client: [MailSpring](https://www.getmailspring.com/download)
 3. Office Suite: [OnlyOffice](https://www.onlyoffice.com/desktop.aspx)
-4. Sync and Cloud: [Resilio Sync](https://www.resilio.com/sync/download/)| [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
+4. Sync and Cloud: [Resilio Sync](https://www.resilio.com/sync/download/) | [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 5. Messaging: [Signal](https://signal.org/download/)
 
 ## Media Editing
 1. Screen Recorder: [OBS](https://obsproject.com/)
-2. Video Editor: [Shotcut](https://www.shotcut.org/download/)| [Da Vinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve)
+2. Video Editor: [Shotcut](https://www.shotcut.org/download/) | [Da Vinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve)
 3. Image Editor: [Gimp](https://www.gimp.org/downloads/)
 4. Audio Editor: [Audacity](https://www.audacityteam.org/download/)
 
