@@ -1,13 +1,14 @@
 ## Tools
 1. Media Player: [VLC Media Player](https://www.videolan.org/vlc/)
-2. PDF Viewer: [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
-3. Compress Utility: [7 Zip](https://www.7-zip.org/download.html)
-4. File Share: [Local Send](https://localsend.org/download)
-5. Windows Photo Viewer
-6. Windows Notepad
-7. Windows Snipping Tool
-8. Windows File Manager
-9. Windows Camera
+2. Music Player: [Music Bee](https://getmusicbee.com/downloads/)
+3. PDF Viewer: [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+4. Compress Utility: [7 Zip](https://www.7-zip.org/download.html)
+5. File Share: [Local Send](https://localsend.org/download)
+6. Windows Photo Viewer
+7. Windows Notepad
+8. Windows Snipping Tool
+9. Windows File Manager
+10. Windows Camera
 
 ## Productivity
 1. Browser: [Chrome](https://www.google.com/chrome/) | [Zen](https://zen-browser.app/download/)
