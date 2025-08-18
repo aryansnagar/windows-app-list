@@ -26,14 +26,16 @@ One place for all of you needed applications that are clean, simple, reliable, e
 2. Music Player: [Music Bee](https://getmusicbee.com/downloads/)
 
 ## Tools
-1. Image Viewer: Windows Image Viewer
+1. File Share: [Local Send](https://localsend.org/download)
 2. File Compress: [7 Zip](https://www.7-zip.org/download.html)
-3. File Share: [Local Send](https://localsend.org/download)
-4. File Sync: [Resilio Sync](https://www.resilio.com/sync/download/)
-5. Cloud: [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
-6. Writer: Windows Notepad
-7. Screenshot: Windows Snipping Tool
-8. Camera: Windows Camera
-9. Local Server: [Ngrok (Server App)](https://ngrok.com/downloads/windows)
+3. Local Sync: [Resilio Sync](https://www.resilio.com/sync/download/)
+4. Cloud Sync: [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
+5. Quick Writer: Windows Notepad
+6. Screenshot: Windows Snipping Tool
+7. Camera: Windows Camera
+8. Image Viewer: Windows Image Viewer
+
+## Specialized Tool
+1. Local Server: [Ngrok](https://ngrok.com/downloads/windows)
 
 [Suggest Apps](mailto:aryannagarco@gmail.com)
