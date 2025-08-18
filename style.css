@@ -1,0 +1,10 @@
+* {
+    font-family: "Inter", sans-serif;
+    line-height: 1.6;
+}
+
+body {
+    margin: 30px auto;
+    width: calc(100% - 40px);
+    max-width: 900px;
+}
