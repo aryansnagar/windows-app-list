@@ -19,8 +19,7 @@ One place for all of you needed applications that are clean, simple, reliable, e
 1. Language & Framework: [NodeJS](https://nodejs.org/en/download), [Python](https://www.python.org/downloads/), [Java](https://www.oracle.com/in/java/technologies/downloads/)
 2. Version Control: [Git](https://git-scm.com/downloads)
 3. Code Editor: [Visual Studio Code](https://code.visualstudio.com/Download)
-4. Local Server: [Ngrok (Server App)](https://ngrok.com/downloads/windows)
-5. Terminal: Windows Terminal
+4. Terminal: Windows Terminal
 
 ## Entertainment
 1. Video Player: [VLC Media Player](https://www.videolan.org/vlc/)
@@ -35,5 +34,6 @@ One place for all of you needed applications that are clean, simple, reliable, e
 6. Writer: Windows Notepad
 7. Screenshot: Windows Snipping Tool
 8. Camera: Windows Camera
+9. Local Server: [Ngrok (Server App)](https://ngrok.com/downloads/windows)
 
 [Suggest Apps](mailto:aryannagarco@gmail.com)
