@@ -11,6 +11,13 @@
 3. Image Editor: [Gimp](https://www.gimp.org/downloads/)
 4. Audio Editor: [Audacity](https://www.audacityteam.org/download/)
 
+## Coding
+1. Language & Framework: [NodeJS](https://nodejs.org/en/download) [Python](https://www.python.org/downloads/) [Java](https://www.oracle.com/in/java/technologies/downloads/)
+2. Version Control: [Git](https://git-scm.com/downloads)
+3. Code Editor: [Visual Studio Code](https://code.visualstudio.com/Download)
+4. Local Server: [Ngrok (Server App)](https://ngrok.com/downloads/windows)
+5. Terminal: Windows Terminal
+
 ## Tools
 1. Media Player: [VLC Media Player](https://www.videolan.org/vlc/)
 2. Compress Utility: [7 Zip](https://www.7-zip.org/download.html)
@@ -26,9 +33,4 @@
 
 
 
-## Coding
-1. Language & Framework: [NodeJS](https://nodejs.org/en/download) [Python](https://www.python.org/downloads/) [Java](https://www.oracle.com/in/java/technologies/downloads/)
-2. Version Conntrol: [Git](https://git-scm.com/downloads)
-3. Code Editor: [Visual Studio Code](https://code.visualstudio.com/Download)
-4. Local Server: [Ngrok (Server App)](https://ngrok.com/downloads/windows)
-5. Windows Terminal
+
