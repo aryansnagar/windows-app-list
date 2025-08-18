@@ -20,14 +20,14 @@
 
 ## Productivity
 
-1. Browser: [Chrome](https://www.google.com/chrome/) [Zen](https://zen-browser.app/download/)    
+1. Browser: [Chrome](https://www.google.com/chrome/) | [Zen](https://zen-browser.app/download/)    
 2. Email Client: [MailSpring](https://www.getmailspring.com/download)
 3. Office Suite: [OnlyOffice](https://www.onlyoffice.com/desktop.aspx)
-4. Sync and Cloud: [Resilio Sync](https://www.resilio.com/sync/download/) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
+4. Sync and Cloud: [Resilio Sync](https://www.resilio.com/sync/download/) | [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 5. Messaging: [Signal](https://signal.org/download/)
 
 ## Extra
 
-1. Video Editor: [Shotcut](https://www.shotcut.org/download/) [Da Vinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve)
+1. Video Editor: [Shotcut](https://www.shotcut.org/download/) | [Da Vinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve)
 2. Screen Recorder: [OBS Screen Recorder](https://obsproject.com/)
 3. Photo Editor: [Gimp](https://www.gimp.org/downloads/)
