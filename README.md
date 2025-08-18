@@ -26,8 +26,9 @@
 4. Sync and Cloud: [Resilio Sync](https://www.resilio.com/sync/download/) | [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 5. Messaging: [Signal](https://signal.org/download/)
 
-## Extra
+## Media Editing
 
-1. Video Editor: [Shotcut](https://www.shotcut.org/download/) | [Da Vinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve)
-2. Screen Recorder: [OBS Screen Recorder](https://obsproject.com/)
+1. Screen Recorder: [OBS](https://obsproject.com/)
+2. Video Editor: [Shotcut](https://www.shotcut.org/download/) Simple | [Da Vinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve) Feature Proof
 3. Photo Editor: [Gimp](https://www.gimp.org/downloads/)
+4. Audio Editor: [Audacity](https://www.audacityteam.org/download/)
