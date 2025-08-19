@@ -37,5 +37,6 @@ One place for all of you needed applications that are clean, simple, reliable, e
 
 ## Specialized Tool
 1. Local Server: [Ngrok](https://ngrok.com/downloads/windows)
+2. Video Compressor: [Handbrake](https://handbrake.fr/)
 
 [Suggest Apps](mailto:aryannagarco@gmail.com)
